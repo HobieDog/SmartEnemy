@@ -1,2 +1,2 @@
-# FPBP(First Project Basic Parts)SmartEnemy
+# SmartEnemy
 invokeとcoroutineでEnemyのAIを作ってみました。
