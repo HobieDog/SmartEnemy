@@ -40,7 +40,6 @@ public class EnemyMove : MonoBehaviour
         //Set Next Active
         nextMove = Random.Range(-1, 2);
 
-
         //Sprite Animation
         anim.SetInteger("MoveSpeed", nextMove);
 
